@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1f5015d3-fd89-46b4-a235-2ccda0b2a1f4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1eau5iMxKhHbzGRuiXa0n6v4960" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../todoApp" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\server\www\uniact\app\moduls\activities\view" />
+      <recent name="C:\server\www\uniact\app\moduls\activities\controller" />
+      <recent name="C:\server\www\uniact\app\moduls\activities\model" />
+      <recent name="C:\server\www\uniact\public\images\settings" />
+      <recent name="C:\server\www\uniact\public\images\sliders" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\server\www\uniact\public\front\assets\images" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f5015d3-fd89-46b4-a235-2ccda0b2a1f4" name="Default Changelist" comment="" />
+      <created>1594571843769</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594571843769</updated>
+      <workItem from="1594571845983" duration="246000" />
+      <workItem from="1595918582782" duration="30811000" />
+      <workItem from="1596006011339" duration="10077000" />
+      <workItem from="1596111904899" duration="5047000" />
+      <workItem from="1596608611876" duration="43000" />
+      <workItem from="1597127121992" duration="4670000" />
+      <workItem from="1597169406212" duration="1624000" />
+      <workItem from="1597326910669" duration="22000" />
+      <workItem from="1597326943177" duration="5745000" />
+      <workItem from="1597346635182" duration="5271000" />
+      <workItem from="1597394456605" duration="6207000" />
+      <workItem from="1597675584573" duration="23000" />
+      <workItem from="1598383691274" duration="1244000" />
+      <workItem from="1598455431567" duration="228000" />
+      <workItem from="1598455853984" duration="558000" />
+      <workItem from="1598901152716" duration="2236000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1342" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1597400713434">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1342" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1597400713434" />
+    <state x="592" y="218" key="FileChooserDialogImpl" timestamp="1598455436732">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="-1180" y="275" key="FileChooserDialogImpl/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1597675606489" />
+    <state x="592" y="218" key="FileChooserDialogImpl/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1598455436732" />
+    <state x="-1126" y="451" key="NewPhpFileDialog" timestamp="1597347413070">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1126" y="451" key="NewPhpFileDialog/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1597347413070" />
+    <state x="-1457" y="165" key="SettingsEditor" timestamp="1596013199444">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1457" y="165" key="SettingsEditor/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1596013199444" />
+    <state x="-1828" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1596116965052">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1828" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1596116965052" />
+    <state x="525" y="273" key="com.intellij.ide.util.TipDialog" timestamp="1598901288424">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="-1264" y="344" key="com.intellij.ide.util.TipDialog/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1597675585442" />
+    <state x="525" y="273" key="com.intellij.ide.util.TipDialog/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1598455884193" />
+    <state x="525" y="273" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1598901288424" />
+    <state x="-1253" y="276" width="586" height="488" key="find.popup" timestamp="1597347857756">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1253" y="276" width="586" height="488" key="find.popup/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1597347857756" />
+    <state x="-1304" y="240" key="run.anything.popup" timestamp="1597351405762">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1304" y="240" key="run.anything.popup/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1597351405762" />
+    <state x="-1297" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1597130096936">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1297" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1597130096936" />
+  </component>
+</project>
